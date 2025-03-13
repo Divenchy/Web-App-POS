@@ -2,6 +2,8 @@
 
 ![12 Team 12 Logo](panda-web-app-frontend/src/assets/biglogo.png)
 
+This is a very serious project regarding sugar chicken.
+
 # Authors
 - https://github.com/cdavis328
 - https://github.com/nathan-on-git
@@ -9,8 +11,6 @@
 - https://github.com/FrozenEarth-git
 - https://github.com/camdenbalberg
 - https://github.com/Divenchy
-
-This is a very serious project regarding sugar chicken.
 
 # QUICKSTART
 This product utilizes the following tech-stack:
